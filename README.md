@@ -22,4 +22,7 @@ This project is a **personal landing page** designed to introduce myself and hig
 ## Planned Improvements
 - Add responsive breakpoints for mobile and tablet devices  
 - Introduce light animations for smoother interactivity  
-- Expand content with additional sections (e.g., projects, contact info)  
+- Expand content with additional sections (e.g., projects, contact info)
+
+## Deployment
+- sarasaboutme.netlify.app
